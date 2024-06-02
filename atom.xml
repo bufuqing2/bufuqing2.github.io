@@ -2,8 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://example.com</id>
     <title>HA-HA</title>
+    <subtitle>HA的博客</subtitle>
+    <icon>http://example.com/images/favicon.ico</icon>
     <link href="http://example.com" />
+    <author>
+      <name>H-A</name>
+    </author>
     <updated>2024-04-28T09:44:28.368Z</updated>
+    <category term="博客，笔记" />
     <entry>
         <id>http://example.com/2024/04/28/hello-world/</id>
         <title>Hello World</title>

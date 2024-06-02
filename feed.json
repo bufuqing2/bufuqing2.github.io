@@ -1,6 +1,8 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "HA-HA",
+    "subtitle": "HA的博客",
+    "icon": "http://example.com/images/favicon.ico",
     "description": "HA的博客",
     "home_page_url": "http://example.com",
     "items": [
