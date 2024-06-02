@@ -2,17 +2,11 @@
 <rss version="2.0">
     <channel>
         <title>HA-HA</title>
-        <subtitle>HA的博客</subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
-        <author>
-          <name>H-A</name>
-        </author>
         <description>HA的博客</description>
         <language>zh-CN</language>
         <pubDate>Sun, 28 Apr 2024 17:44:28 +0800</pubDate>
         <lastBuildDate>Sun, 28 Apr 2024 17:44:28 +0800</lastBuildDate>
-        <category term="博客，笔记" />
         <item>
             <guid isPermalink="true">http://example.com/2024/04/28/hello-world/</guid>
             <title>Hello World</title>
